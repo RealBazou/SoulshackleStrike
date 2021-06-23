@@ -1,0 +1,2 @@
+SoulshackleStrike/&FancySkeletonTitle	Fancy Skeleton
+SoulshackleStrike/&FancySkeletonDescription	I'm a fancy skeleton
